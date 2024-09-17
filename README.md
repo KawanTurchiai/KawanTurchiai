@@ -19,7 +19,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kawanturchiai/)
 
 
-"Simplicidade e a chave para o Sucesso"
+"Quando você coloca ordem no seu mundo, a sua mente se alinha ao extraordinário!"
 
 
 <!--
