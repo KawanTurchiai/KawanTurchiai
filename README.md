@@ -8,6 +8,7 @@
 </div>
 
 <div style="display: incline-block"><br/>
+<img align="center" alt="Lucas-css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kotlin/kotlin-original.svg"/> 
 <img align="center" alt="Lucas-css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg"/> 
 <img align="center" alt="Lucas-html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="center" alt="Lucas-css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> 
