@@ -1,8 +1,7 @@
 ## Olá, sou o Kawan!
-<kbd>Instituto Proa</kbd><br>
-<kbd>Etec de ADM</kbd><br>
-<kbd>Desenvolvimento Mobile<kbd><br>
-
+<kbd>Instituto Proa </kbd><br>
+<kbd>Desenvolvimento Mobile <kbd><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KawanTurchiai/KawanTurchiai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
