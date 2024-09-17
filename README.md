@@ -2,7 +2,7 @@
 <kbd>Instituto Proa </kbd><br>
 <kbd>Desenvolvimento Mobile <kbd><br>
 <div>
-  <img src= "https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img src= "https://github-readme-stats.vercel.app/api?username=KawanTurchiai)](https://github.com/KawanTurchiai/github-readme-stats)" />
 </div>
 
 
