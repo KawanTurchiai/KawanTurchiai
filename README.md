@@ -3,11 +3,10 @@
 <kbd>Desenvolvimento Mobile </kbd>
 <div>
 <img height = 180 src= "https://github-readme-stats.vercel.app/api?username=KawanTurchiai&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)"/>
-<img height = 180 src= "https://github-readme-stats.vercel.app/api/top-langs/?username=KawanTurchiai&hide_progress=false&theme=dark#gh-dark-mode-only)"/>
+<img height = 180 src= "https://github-readme-stats.vercel.app/api/top-langs/?username=KawanTurchiai&langs_count=8)"/>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawanTurchiai&langs_count=8)"/>
 
 
 <!--
