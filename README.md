@@ -1,7 +1,7 @@
 ## Olá, sou o Kawan!
-<kbd> Instituto Proa<kbd>
-<kbd> Etec de ADM<kbd>
-<kbd> Desenvolvimento Movile<kbd>
+<kbd>Instituto Proa<kbd><br>
+<kbd>Etec de ADM<kbd><br>
+<kbd>Desenvolvimento Mobile<kbd><br>
 
 
 <!--
